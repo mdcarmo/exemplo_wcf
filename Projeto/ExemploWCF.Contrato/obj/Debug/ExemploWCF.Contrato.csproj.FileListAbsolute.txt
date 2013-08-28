@@ -1,0 +1,4 @@
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Contrato\bin\Debug\ExemploWCF.Contrato.dll
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Contrato\bin\Debug\ExemploWCF.Contrato.pdb
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Contrato\obj\Debug\ExemploWCF.Contrato.dll
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Contrato\obj\Debug\ExemploWCF.Contrato.pdb

@@ -1,0 +1,4 @@
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Implementacao\bin\Debug\ExemploWCF.Implementacao.dll
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Implementacao\bin\Debug\ExemploWCF.Implementacao.pdb
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Implementacao\obj\Debug\ExemploWCF.Implementacao.dll
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Implementacao\obj\Debug\ExemploWCF.Implementacao.pdb

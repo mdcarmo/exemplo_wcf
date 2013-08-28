@@ -1,0 +1,4 @@
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Service\bin\ExemploWCF.Service.dll
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Service\bin\ExemploWCF.Service.pdb
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Service\obj\Debug\ExemploWCF.Service.dll
+E:\Desenvolvimento_Net\2013\Exemplo_WCF\Exemplo_WCF\ExemploWCF.Service\obj\Debug\ExemploWCF.Service.pdb
