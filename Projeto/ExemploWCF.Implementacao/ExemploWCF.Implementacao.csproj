@@ -39,7 +39,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClienteServico.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExemploWCF.Contrato\ExemploWCF.Contrato.csproj">
+      <Project>{EE70296B-6D70-401A-A4C4-C790B975F471}</Project>
+      <Name>ExemploWCF.Contrato</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ExemploWCF.EntidadeService\ExemploWCF.EntidadeServico.csproj">
+      <Project>{3544CD51-E56B-4137-ACC2-BB518985F093}</Project>
+      <Name>ExemploWCF.EntidadeServico</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

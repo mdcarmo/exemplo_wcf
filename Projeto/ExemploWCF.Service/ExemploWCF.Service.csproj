@@ -50,6 +50,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Cliente.svc" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -61,7 +62,16 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\ExemploWCF.Contrato\ExemploWCF.Contrato.csproj">
+      <Project>{EE70296B-6D70-401A-A4C4-C790B975F471}</Project>
+      <Name>ExemploWCF.Contrato</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ExemploWCF.Implementacao\ExemploWCF.Implementacao.csproj">
+      <Project>{BE14E3EB-3DE9-4F14-906A-B07048F0C6D7}</Project>
+      <Name>ExemploWCF.Implementacao</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
   <ProjectExtensions>
