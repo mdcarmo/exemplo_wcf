@@ -1,0 +1,11 @@
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\bin\AplicacaoWCF.Service.dll
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\bin\AplicacaoWCF.Service.pdb
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\bin\AplicacaoWCF.Contrato.dll
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\bin\AplicacaoWCF.Implementacao.dll
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\bin\AplicacaoWCF.EntidadeServico.dll
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\bin\AplicacaoWCF.Contrato.pdb
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\bin\AplicacaoWCF.Implementacao.pdb
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\bin\AplicacaoWCF.EntidadeServico.pdb
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\obj\Debug\AplicacaoWCF.Service.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\obj\Debug\AplicacaoWCF.Service.dll
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.Service\obj\Debug\AplicacaoWCF.Service.pdb

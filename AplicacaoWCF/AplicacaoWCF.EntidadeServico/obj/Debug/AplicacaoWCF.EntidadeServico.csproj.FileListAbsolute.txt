@@ -1,0 +1,4 @@
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.EntidadeServico\bin\Debug\AplicacaoWCF.EntidadeServico.dll
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.EntidadeServico\bin\Debug\AplicacaoWCF.EntidadeServico.pdb
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.EntidadeServico\obj\Debug\AplicacaoWCF.EntidadeServico.dll
+E:\Desenvolvimento_Net\2013\exemplo_wcf\AplicacaoWCF\AplicacaoWCF.EntidadeServico\obj\Debug\AplicacaoWCF.EntidadeServico.pdb
